@@ -1,4 +1,4 @@
-import endsUpInValidPosition from "../utilities/endsUpInValidPosition";
+import endsUpInValidPosition from "../utilities/endsupInValidPosition";
 
 
 export const state = {
